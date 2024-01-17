@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58457901348",
+    "project_id": "sign-in-e22cc",
+    "storage_bucket": "sign-in-e22cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58457901348:android:48093d9a4801ce19930bb1",
+        "android_client_info": {
+          "package_name": "com.googlesignin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKkzHlRw05MG7nMnO73j2JvMyLmkKCD2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
